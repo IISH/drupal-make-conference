@@ -1,4 +1,4 @@
-Drupal 7 Intranet build
+Drupal 7 Conference build
 ========================
 
 Purpose
