@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# build.sh [instance]
+# build.sh [instance] [version (default "1.0")]
 #
 # Build the package.
 
@@ -13,9 +13,15 @@ if [ -z "$instance" ] ; then
 	exit -1
 fi
 
+version=$2
+if [ -z "$version" ] ; then
+	echo "Default version 1.0"
+	version="1.0"
+fi
+
 makefile=$instance.make
 revision=$(git rev-parse HEAD)
-target=target/$instance
+target=target/$instance-$version
 expect=$target.tar.gz
 
 echo "Build $expect from $makefile, revision $revision"
