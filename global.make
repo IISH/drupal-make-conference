@@ -1,8 +1,8 @@
-; Build the Intranet Drupal site
+; Build the Conference Drupal site
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.23"
+projects[drupal][version] = "7.41"
 
 ; Third party libraries, stored in a local git repository.
 libraries[plupload][type] = "library"
@@ -67,13 +67,13 @@ projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][version] = "2.7"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.3"
+projects[ctools][version] = "1.9"
 
 projects[colorbox][subdir] = "contrib"
-projects[colorbox][version] = "1.6"
+projects[colorbox][version] = "2.10"
 
 projects[date][subdir] = "contrib"
-projects[date][version] = "2.6"
+projects[date][version] = "2.9"
 
 projects[email][subdir] = "contrib"
 projects[email][version] = "1.2"
@@ -85,7 +85,7 @@ projects[extlink][subdir] = "contrib"
 projects[extlink][version] = "1.13"
 
 projects[field_collection][subdir] = "contrib"
-projects[field_collection][version] = "1.0-beta5"
+projects[field_collection][version] = "1.0-beta10"
 
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.3"
@@ -133,7 +133,7 @@ projects[nice_menus][subdir] = "contrib"
 projects[nice_menus][version] = "2.5"
 
 projects[pathauto][subdir] = "contrib"
-projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 
 projects[plupload][subdir] = "contrib"
 projects[plupload][version] = "1.4"
@@ -176,6 +176,9 @@ projects[webform][version] = "3.19"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
+
+projects[google_analytics][subdir] = "contrib"
+projects[google_analytics][version] = "2.1"
 
 ; Drupal Themes
 projects[omega][version] = "3.1"
