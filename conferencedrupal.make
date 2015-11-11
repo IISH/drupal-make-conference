@@ -84,7 +84,7 @@ projects[extlink][subdir] = "contrib"
 projects[extlink][version] = "1.13"
 
 projects[field_collection][subdir] = "contrib"
-projects[field_collection][version] = "1.0-beta10"
+projects[field_collection][version] = "1.0-beta8"
 
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.3"
