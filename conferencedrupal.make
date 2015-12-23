@@ -81,22 +81,22 @@ projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.2"
 
 projects[extlink][subdir] = "contrib"
-projects[extlink][version] = "1.13"
+projects[extlink][version] = "1.18"
 
 projects[field_collection][subdir] = "contrib"
 projects[field_collection][version] = "1.0-beta8"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "1.3"
+projects[media][version] = "1.5"
 
 projects[filefield_sources][subdir] = "contrib"
-projects[filefield_sources][version] = "1.9"
+projects[filefield_sources][version] = "1.10"
 
 projects[filefield_sources_plupload][subdir] = "contrib"
 projects[filefield_sources_plupload][version] = "1.1"
 
 projects[i18n][subdir] = "contrib"
-projects[i18n][version] = "1.10"
+projects[i18n][version] = "1.13"
 
 projects[i18nviews][subdir] = "contrib"
 projects[i18nviews][version] = "3.x-dev"
@@ -105,7 +105,7 @@ projects[jw_player][subdir] = "contrib"
 projects[jw_player][version] = "1.0-alpha1"
 
 projects[l10n_update][subdir] = "contrib"
-projects[l10n_update][version] = "1.0-beta3"
+projects[l10n_update][version] = "2.0"
 
 projects[ldap][subdir] = "contrib"
 projects[ldap][version] = "2.0-beta8"
@@ -114,16 +114,16 @@ projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.1"
 
 projects[link][subdir] = "contrib"
-projects[link][version] = "1.2"
+projects[link][version] = "1.3"
 
 projects[mail_edit][subdir] = "contrib"
-projects[mail_edit][version] = "1.0"
+projects[mail_edit][version] = "1.1"
 
 projects[mediafront][subdir] = "contrib"
 projects[mediafront][version] = "2.2"
 
 projects[menu_block][subdir] = "contrib"
-projects[menu_block][version] = "2.3"
+projects[menu_block][version] = "2.7"
 
 projects[menu_position][subdir] = "contrib"
 projects[menu_position][version] = "1.1"
@@ -135,43 +135,43 @@ projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.3"
 
 projects[plupload][subdir] = "contrib"
-projects[plupload][version] = "1.4"
+projects[plupload][version] = "1.7"
 
 projects[print][subdir] = "contrib"
-projects[print][version] = "1.2"
+projects[print][version] = "2.0"
 
 projects[r4032login][subdir] = "contrib"
-projects[r4032login][version] = "1.7"
+projects[r4032login][version] = "1.8"
 
 projects[realname][subdir] = "contrib"
-projects[realname][version] = "1.1"
+projects[realname][version] = "1.2"
 
 projects[shoutbox][subdir] = "contrib"
-projects[shoutbox][version] = "1.0-alpha2"
+projects[shoutbox][version] = "1.0-beta1"
 
 projects[site_map][subdir] = "contrib"
-projects[site_map][version] = "1.0"
+projects[site_map][version] = "1.3"
 
 projects[subscriptions][subdir] = "contrib"
 projects[subscriptions][version] = "1.1"
 
 projects[token][subdir] = "contrib"
-projects[token][version] = "1.5"
+projects[token][version] = "1.6"
 
 projects[translation_helpers][subdir] = "contrib"
 projects[translation_helpers][version] = "1.0"
 
 projects[transliteration][subdir] = "contrib"
-projects[transliteration][version] = "3.1"
+projects[transliteration][version] = "3.2"
 
 projects[variable][subdir] = "contrib"
-projects[variable][version] = "2.3"
+projects[variable][version] = "2.5"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.7"
+projects[views][version] = "3.13"
 
 projects[webform][subdir] = "contrib"
-projects[webform][version] = "3.19"
+projects[webform][version] = "3.24"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
