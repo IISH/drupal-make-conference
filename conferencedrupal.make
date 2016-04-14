@@ -37,8 +37,10 @@ libraries[colorbox][directory_name] = "colorbox"
 projects[iisg][version] = "1.0"
 projects[iisg][type] = "theme"
 projects[iisg][download][type] = "git"
-projects[iisg][download][url] = "git://github.com/IISH/drupal-theme-iisg.git"
-projects[iisg][download][branch] = "test"
+;projects[iisg][download][url] = "git://github.com/IISH/drupal-theme-iisg.git"
+;projects[iisg][download][branch] = "test"
+projects[iisg][download][url] = "https://github.com/IISH/drupal-theme-iish.git"
+projects[iisg][download][branch] = "master"
 
 ; Custom modules
 ; Custom build iish_blocks.
