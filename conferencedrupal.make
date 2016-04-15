@@ -84,7 +84,7 @@ projects[email][subdir] = "contrib"
 projects[email][version] = "1.2"
 
 projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.2"
+projects[entity][version] = "1.7"
 
 projects[extlink][subdir] = "contrib"
 projects[extlink][version] = "1.18"
