@@ -42,6 +42,12 @@ projects[iisg][download][type] = "git"
 projects[iisg][download][url] = "https://github.com/IISH/drupal-theme-iish.git"
 projects[iisg][download][branch] = "master"
 
+projects[esshc][version] = "1.0"
+projects[esshc][type] = "theme"
+projects[esshc][download][type] = "git"
+projects[esshc][download][url] = "https://github.com/IISH/drupal-theme-esshc.git"
+projects[esshc][download][branch] = "master"
+
 ; Custom modules
 ; Custom build iish_blocks.
 projects[iish_blocks][version] = "1.0"
