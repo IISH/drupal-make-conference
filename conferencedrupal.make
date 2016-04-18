@@ -34,6 +34,7 @@ libraries[colorbox][download][branch] = "1.x"
 libraries[colorbox][directory_name] = "colorbox"
 
 ; Custom themes
+; DO NOT REMOVE THE IISH THEME (IS THE 'BASE' THEME FOR THE ESSHC THEME)
 projects[iisg][version] = "1.0"
 projects[iisg][type] = "theme"
 projects[iisg][download][type] = "git"
