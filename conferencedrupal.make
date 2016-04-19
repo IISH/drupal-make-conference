@@ -84,8 +84,14 @@ projects[ctools][version] = "1.9"
 projects[colorbox][subdir] = "contrib"
 projects[colorbox][version] = "2.10"
 
+projects[context][subdir] = "contrib"
+projects[context][version] = "3.6"
+
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.9"
+
+projects[delta][subdir] = "contrib"
+projects[delta][version] = "3.0-beta11"
 
 projects[email][subdir] = "contrib"
 projects[email][version] = "1.2"
