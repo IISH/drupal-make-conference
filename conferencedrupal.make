@@ -2,33 +2,23 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.44"
+projects[drupal][version] = "7.50"
 
 ; Third party libraries, stored in a local git repository.
-;libraries[plupload][type] = "library"
-;libraries[plupload][download][type] = "git"
-;libraries[plupload][download][url] = "git@atlassian-bamboo-be0.socialhistoryservices.org:plupload.git"
-;libraries[plupload][download][branch] = "master"
-;libraries[plupload][directory_name] = "plupload"
 
-libraries[ckeditor][type] = "library"
+;libraries[ckeditor][type] = libraries
+;libraries[ckeditor][download][type] = "git"
+;libraries[ckeditor][download][url] = "https://github.com/ckeditor/ckeditor-releases.git"
+;libraries[ckeditor][download][branch] = "full/4.5.x"
+;libraries[ckeditor][directory_name] = "ckeditor"
+
+libraries[ckeditor][type] = libraries
 libraries[ckeditor][download][type] = "git"
-;libraries[ckeditor][download][url] = "git@atlassian-bamboo-be0.socialhistoryservices.org:ckeditor.git"
-;libraries[ckeditor][download][branch] = "master"
-libraries[ckeditor][download][url] = "https://github.com/ckeditor/ckeditor-releases.git"
-libraries[ckeditor][download][branch] = "full/4.5.x"
+libraries[ckeditor][download][url] = "https://github.com/iish/drupal-library-ckeditor4.git"
 libraries[ckeditor][directory_name] = "ckeditor"
 
-;libraries[jwplayer][type] = "library"
-;libraries[jwplayer][download][type] = "git"
-;libraries[jwplayer][download][url] = "git@atlassian-bamboo-be0.socialhistoryservices.org:jwplayer.git"
-;libraries[jwplayer][download][branch] = "master"
-;libraries[jwplayer][directory_name] = "jwplayer"
-
-libraries[colorbox][type] = "library"
+libraries[colorbox][type] = libraries
 libraries[colorbox][download][type] = "git"
-;libraries[colorbox][download][url] = "git@atlassian-bamboo-be0.socialhistoryservices.org:colorbox.git"
-;libraries[colorbox][download][branch] = "master"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][download][branch] = "1.x"
 libraries[colorbox][directory_name] = "colorbox"
@@ -38,8 +28,6 @@ libraries[colorbox][directory_name] = "colorbox"
 projects[iisg][version] = "1.0"
 projects[iisg][type] = "theme"
 projects[iisg][download][type] = "git"
-;projects[iisg][download][url] = "git://github.com/IISH/drupal-theme-iisg.git"
-;projects[iisg][download][branch] = "test"
 projects[iisg][download][url] = "https://github.com/IISH/drupal-theme-iish.git"
 projects[iisg][download][branch] = "master"
 
@@ -127,7 +115,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "2.0"
 
 projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "2.0-beta8"
+projects[ldap][version] = "2.0-beta11"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.1"
@@ -193,10 +181,10 @@ projects[webform][subdir] = "contrib"
 projects[webform][version] = "3.24"
 
 projects[wysiwyg][subdir] = "contrib"
-projects[wysiwyg][version] = "2.2"
+projects[wysiwyg][version] = "2.x-dev"
 
 projects[google_analytics][subdir] = "contrib"
-projects[google_analytics][version] = "2.1"
+projects[google_analytics][version] = "2.3"
 
 ; Drupal Themes
 projects[omega][version] = "3.1"
