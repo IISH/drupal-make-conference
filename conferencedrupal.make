@@ -154,7 +154,7 @@ projects[realname][subdir] = "contrib"
 projects[realname][version] = "1.2"
 
 projects[shoutbox][subdir] = "contrib"
-projects[shoutbox][version] = "1.0-beta1"
+projects[shoutbox][version] = "1.1"
 
 projects[site_map][subdir] = "contrib"
 projects[site_map][version] = "1.3"
