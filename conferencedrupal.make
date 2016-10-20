@@ -14,7 +14,7 @@ projects[drupal][version] = "7.51"
 
 libraries[ckeditor][type] = libraries
 libraries[ckeditor][download][type] = "git"
-libraries[ckeditor][download][url] = "https://github.com/iish/drupal-library-ckeditor4.git"
+libraries[ckeditor][download][url] = "git@github.com:IISH/drupal-library-ckeditor4.git"
 libraries[ckeditor][directory_name] = "ckeditor"
 
 libraries[colorbox][type] = libraries
@@ -28,13 +28,13 @@ libraries[colorbox][directory_name] = "colorbox"
 projects[iisg][version] = "1.0"
 projects[iisg][type] = "theme"
 projects[iisg][download][type] = "git"
-projects[iisg][download][url] = "https://github.com/IISH/drupal-theme-iish.git"
+projects[iisg][download][url] = "git@github.com:IISH/drupal-theme-iish.git"
 projects[iisg][download][branch] = "master"
 
 projects[esshc][version] = "1.0"
 projects[esshc][type] = "theme"
 projects[esshc][download][type] = "git"
-projects[esshc][download][url] = "https://github.com/IISH/drupal-theme-esshc.git"
+projects[esshc][download][url] = "git@github.com:IISH/drupal-theme-esshc.git"
 projects[esshc][download][branch] = "master"
 
 ; Custom modules
@@ -42,7 +42,7 @@ projects[esshc][download][branch] = "master"
 projects[iish_blocks][version] = "1.0"
 projects[iish_blocks][type] = "module"
 projects[iish_blocks][download][type] = "git"
-projects[iish_blocks][download][url] = "https://github.com/IISH/drupal-module-blocks.git"
+projects[iish_blocks][download][url] = "git@github.com:IISH/drupal-module-blocks.git"
 projects[iish_blocks][download][branch] = "master"
 projects[iish_blocks][subdir] = "custom"
 
