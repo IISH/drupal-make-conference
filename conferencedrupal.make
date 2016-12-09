@@ -2,7 +2,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.51"
+projects[drupal][version] = "7.53"
 
 ; Third party libraries, stored in a local git repository.
 
@@ -19,7 +19,7 @@ libraries[ckeditor][directory_name] = "ckeditor"
 
 libraries[colorbox][type] = libraries
 libraries[colorbox][download][type] = "git"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
+libraries[colorbox][download][url] = "git@github.com:jackmoore/colorbox.git"
 libraries[colorbox][download][branch] = "1.x"
 libraries[colorbox][directory_name] = "colorbox"
 
@@ -108,6 +108,7 @@ projects[i18n][version] = "1.13"
 projects[i18nviews][subdir] = "contrib"
 projects[i18nviews][version] = "3.x-dev"
 
+; onduidelijk of jw_player gebruikt wordt
 projects[jw_player][subdir] = "contrib"
 projects[jw_player][version] = "2.0-beta2"
 
