@@ -67,10 +67,10 @@ projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][version] = "2.7"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.9"
+projects[ctools][version] = "1.12"
 
 projects[colorbox][subdir] = "contrib"
-projects[colorbox][version] = "2.10"
+projects[colorbox][version] = "2.12"
 
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.6"
@@ -179,7 +179,7 @@ projects[views][subdir] = "contrib"
 projects[views][version] = "3.14"
 
 projects[webform][subdir] = "contrib"
-projects[webform][version] = "3.25"
+projects[webform][version] = "3.27"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.x-dev"
