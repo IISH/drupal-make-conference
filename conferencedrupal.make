@@ -94,7 +94,7 @@ projects[field_collection][subdir] = "contrib"
 projects[field_collection][version] = "1.0-beta8"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "1.5"
+projects[media][version] = "2.3"
 
 projects[filefield_sources][subdir] = "contrib"
 projects[filefield_sources][version] = "1.10"
