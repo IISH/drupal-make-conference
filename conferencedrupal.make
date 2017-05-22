@@ -127,9 +127,8 @@ projects[link][version] = "1.3"
 projects[mail_edit][subdir] = "contrib"
 projects[mail_edit][version] = "1.1"
 
-; media niet updaten naar versie 2 totdat uitgezocht is hoe we de nieuwe versie moeten instellen
 projects[media][subdir] = "contrib"
-projects[media][version] = "1.6"
+projects[media][version] = "2.3"
 
 projects[mediafront][subdir] = "contrib"
 projects[mediafront][version] = "2.2"
