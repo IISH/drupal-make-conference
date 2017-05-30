@@ -97,7 +97,7 @@ projects[filefield_sources][subdir] = "contrib"
 projects[filefield_sources][version] = "1.10"
 
 projects[file_entity][subdir] = "contrib"
-projects[file_entity][version] = "2.0-beta3"
+projects[file_entity][version] = "2.0"
 
 projects[filefield_sources_plupload][subdir] = "contrib"
 projects[filefield_sources_plupload][version] = "1.1"
