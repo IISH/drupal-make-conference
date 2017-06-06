@@ -97,7 +97,7 @@ projects[filefield_sources][subdir] = "contrib"
 projects[filefield_sources][version] = "1.10"
 
 projects[file_entity][subdir] = "contrib"
-projects[file_entity][version] = "2.0"
+projects[file_entity][version] = "2.1"
 
 projects[filefield_sources_plupload][subdir] = "contrib"
 projects[filefield_sources_plupload][version] = "1.1"
@@ -116,7 +116,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "2.0"
 
 projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "2.0-beta12"
+projects[ldap][version] = "2.2"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.1"
