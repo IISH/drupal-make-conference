@@ -96,8 +96,9 @@ projects[field_collection][version] = "1.0-beta8"
 projects[filefield_sources][subdir] = "contrib"
 projects[filefield_sources][version] = "1.10"
 
+; als media en file_entity in kombinatie worden gebruikt dan moeten dezelfde versie "NUMMERs" gebruikt worden
 projects[file_entity][subdir] = "contrib"
-projects[file_entity][version] = "2.0-beta3"
+projects[file_entity][version] = "2.1"
 
 projects[filefield_sources_plupload][subdir] = "contrib"
 projects[filefield_sources_plupload][version] = "1.1"
@@ -116,7 +117,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "2.0"
 
 projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "2.0-beta12"
+projects[ldap][version] = "2.2"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.1"
@@ -127,8 +128,9 @@ projects[link][version] = "1.3"
 projects[mail_edit][subdir] = "contrib"
 projects[mail_edit][version] = "1.1"
 
+; als media en file_entity in kombinatie worden gebruikt dan moeten dezelfde versie "NUMMERs" gebruikt worden
 projects[media][subdir] = "contrib"
-projects[media][version] = "2.3"
+projects[media][version] = "2.1"
 
 projects[mediafront][subdir] = "contrib"
 projects[mediafront][version] = "2.2"
