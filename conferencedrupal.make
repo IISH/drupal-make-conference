@@ -2,7 +2,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.54"
+projects[drupal][version] = "7.56"
 
 ; Third party libraries, stored in a local git repository.
 
@@ -96,7 +96,7 @@ projects[field_collection][version] = "1.0-beta8"
 projects[filefield_sources][subdir] = "contrib"
 projects[filefield_sources][version] = "1.10"
 
-; als media en file_entity in kombinatie worden gebruikt dan moeten dezelfde versie "NUMMERs" gebruikt worden
+; als media en file_entity in kombinatie worden gebruikt dan moeten ze dezelfde versie "NUMMERs" hebben
 projects[file_entity][subdir] = "contrib"
 projects[file_entity][version] = "2.1"
 
